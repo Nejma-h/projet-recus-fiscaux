@@ -1,0 +1,16 @@
+{
+    "name": "nham/recus-cerfa",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nejma H."
+        }
+    ],
+    "require": {
+        "mikehaertl/php-pdftk": "^0.13.1"
+    }
+}
